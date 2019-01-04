@@ -14,7 +14,7 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome blog of John Doe."
     location = "Mississauga, ON"
     # Link custom assets relative to /static
-    avatar = "img/Praying_Mantis_logo.png"
+    avatar = "img/28147351.png"
     header_background = "img/Crying_Wolf.jpg"
     header_title = "RW Engineering & Design"
     copyright = "Powered by [Hugo](http://gohugo.io)."
